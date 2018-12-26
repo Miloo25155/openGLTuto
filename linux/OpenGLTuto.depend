@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1545775487 source:/home/erwan/Development/Cpp/OpenGLTuto/OpenGLTuto/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Global.h"
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<shader.hpp>
+
+1545765289 /home/erwan/Development/Cpp/OpenGLTuto/OpenGLTuto/include/Global.h
+
+1545772610 source:/home/erwan/Development/Cpp/OpenGLTuto/OpenGLTuto/src/Global.cpp
+	"Global.h"
+
+1519407658 source:/home/erwan/Development/Cpp/OpenGLTuto/OpenGLTuto/common/shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"shader.hpp"
+
+1519407658 /home/erwan/Development/Cpp/OpenGLTuto/OpenGLTuto/common/shader.hpp
+
+1519407658 /home/erwan/Development/Cpp/OpenGLTuto/OpenGLTuto/include/shader.hpp
+
+1519407658 source:/home/erwan/Development/Cpp/OpenGLTuto/OpenGLTuto/src/shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"shader.hpp"
+
+1545816849 source:c:\users\bvbh0860\desktop\dev\cpp\opengltuto\opengltuto\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Global.h"
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<shader.hpp>
+
+1545816849 c:\users\bvbh0860\desktop\dev\cpp\opengltuto\opengltuto\include\global.h
+
+1545816849 c:\users\bvbh0860\desktop\dev\cpp\opengltuto\opengltuto\include\shader.hpp
+
+1545816849 source:c:\users\bvbh0860\desktop\dev\cpp\opengltuto\opengltuto\src\global.cpp
+	"Global.h"
+
+1545816849 source:c:\users\bvbh0860\desktop\dev\cpp\opengltuto\opengltuto\src\shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"shader.hpp"
+
